@@ -1,0 +1,39 @@
+/* .box1 {
+    background-color: #eee;
+    padding: 32px;
+    margin-top: 5vh;
+    box-shadow: 7px 6px 7px -4px gray;
+} */
+
+.app {
+    max-width: 600px;
+}
+
+.app input {
+    margin-top: 0px;
+}
+
+.app label {
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+
+#registerbtn,
+#loginbtn {
+    margin-top: 10px
+}
+
+.app .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: white;
+    background-color:#0C436A;
+
+}
+
+.center {
+    display: flex;
+    align-items: center;
+}
+.pad{
+    padding:20%
+  }

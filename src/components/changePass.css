@@ -1,0 +1,16 @@
+.app {
+    max-width: 600px;
+    background-color: #eee;
+    padding: 32px;
+    margin-top: 5vh;
+    box-shadow: 7px 6px 7px -4px gray;
+}
+
+.app input {
+    margin-top: 0px;
+}
+
+.app label {
+    margin-top: 5px;
+    margin-bottom: 3px;
+}

@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: white;
+    margin-top: 5vh;
+}
+.failure_info{
+    color: white;
+}
+.failure_info:hover{
+    color: black;
+}
